@@ -2,11 +2,9 @@
 
 void main()
 {
-    printf("Hellolo, Worjajshdfisdbfowehriewsnflsdfosld!");
-
-
+    printf("Hefgisugjllolo, Worjajshdfisdbfowehriewsnflsdfosld!");
     askjdhafuha
 
 
-    printf();askhafua
+    printf("niuwvd");askhafua
 }
