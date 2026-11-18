@@ -2,5 +2,8 @@
 
 int main()
 {khfbhsafbahfbafhbhfbakhb
-    printf("Hellojhsa o, World!");
+    printf("Hellojhsa o, Worooooold!");
+
+
+    print();dsadasd
 }KJDNbskafbdk
