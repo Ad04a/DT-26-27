@@ -2,8 +2,10 @@
 
 int main()
 {khfbhsafbahfbafhbhfbakhb
-    printf("Hellojhsa o, Worooooold!");
+    printf("Hellojhsa o, Woroooooldddddddddd!");
 
 
     print();dsadasd
 }KJDNbskafbdk
+фйадслйа;фсдфадсфафаадфафасфас
+
